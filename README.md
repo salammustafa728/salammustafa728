@@ -2,7 +2,7 @@
 
 I'm Salam Mustafa 
 
-***Web Developer***
+***Quality Assurance Sepecialist***
 
 
 ![Salam Mustafa GitHub stats](https://github-readme-stats.vercel.app/api?username=salammustafa728&theme=monokai&show_icons=true)
